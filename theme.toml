@@ -1,0 +1,9 @@
+name = "neo"
+license = "MIT"
+licenselink = "https://github.com/kaleocheng/test-devops-neo/blob/master/LICENSE"
+homepage = "https://github.com/kaleocheng/test-devops-neo"
+description = "A sample theme for hugo"
+tags = ["minimal", "clean"]
+[author]
+  name = "Kaleo Cheng"
+  homepage = "https://github.com/kaleocheng"
